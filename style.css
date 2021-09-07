@@ -1,0 +1,39 @@
+#image1 {
+    top: 150px;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+    height: 550px;
+    #background: rgb(2, 0, 36);
+    #background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+}
+
+.menu {
+    list-style: none;
+    right: 30px;
+    position: fixed;
+}
+
+.link {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    top: 10px;
+    font-family: cursive;
+    cursor: pointer;
+    color: black;
+}
+
+#section1 {
+    font-family: 'Roboto', sans-serif;
+}
